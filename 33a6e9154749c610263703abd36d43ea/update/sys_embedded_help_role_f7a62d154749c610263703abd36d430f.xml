@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1310488_random_0.user" name="x_1310488_random_0.user">7ba62d154749c610263703abd36d430e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-19 02:11:30</sys_created_on>
+        <sys_id>f7a62d154749c610263703abd36d430f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7ba62d154749c610263703abd36d430e</sys_name>
+        <sys_package display_value="Random app" source="x_1310488_random_0">33a6e9154749c610263703abd36d43ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Random app">33a6e9154749c610263703abd36d43ea</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f7a62d154749c610263703abd36d430f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-19 02:11:30</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
